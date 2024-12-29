@@ -1,4 +1,5 @@
-# GuessNumber MiniGame  猜数字小游戏
+# GuessNumber MiniGame  
+# 猜数字小游戏
 
 ## <div align="center">Powered By：柯书奇</div>
 ## <div align="center">计科A2231</div>
