@@ -11,7 +11,6 @@ import random
 
 
 def GetCalculator(UserGuess, start, end, ans):
-    print(UserGuess, start, end, ans)
     if UserGuess == ans:
         return [True]
     if UserGuess < start or UserGuess > end:
