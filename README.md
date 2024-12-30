@@ -1,9 +1,10 @@
 # GuessNumber MiniGame  
 # 猜数字小游戏
 
-## <div align="center">Powered By：keshuqi</div>
+## <div align="center">Powered By：Ke Shuqi</div>
 ## <div align="center">Jju</div>
 ## <div align="center">2024.12.29</div>
+## <div align="center">指导老师: Liu Yan</div>
 
 <details open>
 <summary>安装需要的python虚拟环境</summary>
