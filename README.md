@@ -1,7 +1,7 @@
 # GuessNumber MiniGame  
 # 猜数字小游戏
 
-#本项目是基于PYQT5图形界面开发的数字小游戏, 欢迎大家学习讨论
+##### 本项目是基于PYQT5图形界面开发的数字小游戏, 欢迎大家学习讨论
 
 ## <div align="center">Powered By：Ke Shuqi</div>
 ## <div align="center">计科A2231</div>
